@@ -128,12 +128,14 @@ color: #FFFFFF;
 ```
 
 ## OUTPUT:
-![Screenshot (69)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/d3191334-b761-4417-b7b3-ba4fc03fc2b9)
-![Screenshot (70)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/87b091ea-c8eb-4736-94e6-6ab2ec5ac971)
-![Screenshot (71)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/88b74dd9-9213-40ec-9530-891f22460a1e)
-![Screenshot (72)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/074e4449-9207-4a20-8283-75c505120f2d)
-![Screenshot (73)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/08578e3f-46df-4fce-ad41-7e9540f1770b)
-![Screenshot (74)](https://github.com/JAYAVARTHAN-P/Event-Registration/assets/121369281/cc7e5da9-fdce-425e-887f-5eddcd3f4d04)
+![image](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/d011ba1c-d61d-47df-b6e6-5ab11cbea46a)
+![Screenshot 2023-06-07 181014](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/002da4db-4e91-47bf-877b-54ecd10c2576)
+![Screenshot 2023-06-07 181035](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/887807ac-222e-4b5b-a63c-01c6cdecf4a2)
+![Screenshot 2023-06-07 181102](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/d5ec1bdf-27f3-4784-a437-7d2f57902cd6)
+![Screenshot 2023-06-07 181119](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/1d4d5d5f-d2fd-46d3-872f-b216a7306b38)
+![Screenshot 2023-06-07 181132](https://github.com/Jayakrishnan22003251/event-registration/assets/120232371/a881791b-80e8-40c7-9b9e-14a7d60efc3e)
+
+
 
 
 
